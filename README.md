@@ -1,4 +1,4 @@
-# order-page
+# booking-site
 
 ## Project setup
 ```
